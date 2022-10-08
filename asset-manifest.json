@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cinema/static/css/main.b7f02535.css",
+    "main.js": "/cinema/static/js/main.a0650e0c.js",
+    "static/media/TomCruise.jpg": "/cinema/static/media/TomCruise.62ca186e44f9101dd939.jpg",
+    "static/media/Depp.jpg": "/cinema/static/media/Depp.4582fd7edec937fb9c2c.jpg",
+    "static/media/DiCaprio.jpg": "/cinema/static/media/DiCaprio.bce4936c69b3f2c1d0d2.jpg",
+    "static/media/slide1.jpg": "/cinema/static/media/slide1.736f336daed76dedc02a.jpg",
+    "static/media/slide2.jpg": "/cinema/static/media/slide2.a23ad61cac18322071c1.jpg",
+    "static/media/slide3.jpg": "/cinema/static/media/slide3.1051cdb137fc4d50e00c.jpg",
+    "index.html": "/cinema/index.html",
+    "main.b7f02535.css.map": "/cinema/static/css/main.b7f02535.css.map",
+    "main.a0650e0c.js.map": "/cinema/static/js/main.a0650e0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7f02535.css",
+    "static/js/main.a0650e0c.js"
+  ]
+}
