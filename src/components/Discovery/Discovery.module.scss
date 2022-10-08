@@ -1,0 +1,10 @@
+.discovery {
+  @apply flex flex-wrap justify-between;
+  .card {
+    @apply w-1/4 m-6 rounded-xl overflow-hidden cursor-pointer hover:scale-105 transition-all  relative ;
+
+    span {
+      @apply absolute bottom-5  left-1/2 -translate-x-1/2 text-white;
+    }
+  }
+}

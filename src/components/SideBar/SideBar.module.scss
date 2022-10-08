@@ -1,0 +1,6 @@
+.sidebar {
+  @apply flex-col p-5 text-white;
+  input {
+    @apply my-10;
+  }
+}

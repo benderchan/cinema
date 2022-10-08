@@ -1,0 +1,22 @@
+.layout {
+  @apply flex bg-primaryBg text-textGray min-h-screen justify-between;
+
+  > div:first-child, > div:last-child {
+    @apply w-2/12;
+  }
+
+
+  > div:first-child {
+    @apply border-r border-primaryGray;
+  }
+
+  > div:last-child {
+    @apply border-l border-primaryGray;
+  }
+
+
+  .children {
+    @apply w-8/12 px-24 flex-col items-center;
+  }
+}
+

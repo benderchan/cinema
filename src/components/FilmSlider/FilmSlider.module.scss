@@ -1,0 +1,9 @@
+.swiper {
+
+  .slide {
+    @apply shadow-img rounded-xl overflow-hidden h-full;
+    img {
+      @apply sepia-0;
+    }
+  }
+}

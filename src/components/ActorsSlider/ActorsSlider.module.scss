@@ -1,0 +1,7 @@
+.swiper {
+  .slide {
+    img {
+      @apply h-40 w-24  object-cover object-center rounded-md ;
+    }
+  }
+}

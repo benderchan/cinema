@@ -1,0 +1,10 @@
+.navigation {
+  @apply pl-5;
+  .link {
+    @apply flex items-center my-2;
+  }
+
+  .block:not(last-child) {
+    @apply mb-5;
+  }
+}

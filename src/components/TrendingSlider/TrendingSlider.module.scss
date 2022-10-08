@@ -1,0 +1,8 @@
+.swiper {
+  .slide {
+    @apply w-96 h-52 relative;
+    img {
+      @apply w-full h-full object-cover object-center rounded-md ;
+    }
+  }
+}

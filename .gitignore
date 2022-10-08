@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-
+tailwind.config.js
 # testing
 /coverage
 
@@ -12,6 +12,9 @@
 /build
 
 # misc
+postcss.config.js
+.idea
+.env
 .DS_Store
 .env.local
 .env.development.local

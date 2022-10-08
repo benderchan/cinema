@@ -1,0 +1,4 @@
+.button {
+  @apply rounded-lg bg-primaryRed py-2 px-4 text-white transition-all enabled:hover:scale-105 disabled:bg-black;
+  @layer: disabled:bg-gray;
+}
